@@ -1,0 +1,31 @@
+{
+  "name": "simple-work-template",
+  "version": "4.0.0",
+  "description": "My work template",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/K0nfy/work-template"
+  },
+  "author": "https://github.com/vedees",
+  "license": "MIT",
+  "devDependencies": {
+    "animate.css": "^3.7.2",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cache": "^1.1.3",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^2.0.0",
+    "jshint": "^2.11.0",
+    "jshint-stylish": "^2.2.1"
+  },
+  "dependencies": {
+    "npm": "^6.14.4"
+  }
+}
