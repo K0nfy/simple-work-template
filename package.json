@@ -26,6 +26,6 @@
     "jshint-stylish": "^2.2.1"
   },
   "dependencies": {
-    "npm": "^6.14.5"
+    "npm": "^6.14.6"
   }
 }
